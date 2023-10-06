@@ -1,3 +1,3 @@
 # LÉAME
-##*Este apartado se encuentra en Español.*
+## *Este apartado se encuentra en Español.*
 
